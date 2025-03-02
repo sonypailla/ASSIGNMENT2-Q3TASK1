@@ -31,4 +31,5 @@ Implementation Steps
 Usage
 
 Run the script in a Python environment
+python sobel_edge_detection.py
 
